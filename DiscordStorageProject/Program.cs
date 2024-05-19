@@ -20,8 +20,8 @@ namespace DiscordStorageProject
             storage.Webhook = "Storage Webhook";
 
             storage.UploadFile(@"Path\to\file.txt");
-            storage.DownloadFile(@"Download\path", @"file.txt");
-            storage.DeleteFile(@"file.txt");
+            storage.DownloadFile(@"Download\path", @"FileName.txt");
+            storage.DeleteFile(@"FileName.txt");
             
 
             Console.ReadKey();
