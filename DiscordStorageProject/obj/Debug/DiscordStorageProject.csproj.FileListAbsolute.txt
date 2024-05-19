@@ -1,0 +1,10 @@
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\bin\Debug\DiscordStorageProject.exe.config
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\bin\Debug\DiscordStorageProject.exe
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\bin\Debug\DiscordStorageProject.pdb
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\bin\Debug\Newtonsoft.Json.dll
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\bin\Debug\Newtonsoft.Json.xml
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\obj\Debug\DiscordStorageProject.csproj.AssemblyReference.cache
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\obj\Debug\DiscordStorageProject.csproj.CoreCompileInputs.cache
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\obj\Debug\DiscordS.58E751D3.Up2Date
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\obj\Debug\DiscordStorageProject.exe
+D:\VS2022\DiscordStorageProject\DiscordStorageProject\obj\Debug\DiscordStorageProject.pdb
